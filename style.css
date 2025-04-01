@@ -500,6 +500,9 @@ nav .fa-solid {
     .about-col-2 {
         width: 100%;
     }
+    #portfolio {
+        margin-top: 20%;
+    }
     .work-list {
     
         width: 100%;
@@ -511,12 +514,18 @@ nav .fa-solid {
     }
 }
 @media (max-width:400px) {
+    #portfolio {
+        margin-top: 50%;
+    }
     .about-col-2 {
  
         width: 100%;
     }
 }
 @media (max-width:500px) {
+    #portfolio {
+        margin-top: 50%;
+    }
     .header-text {
         margin-bottom: 90%;
     }
@@ -566,6 +575,9 @@ nav .fa-solid {
     .about-col-2 .aboutpara {
         margin: 5% 0;
         padding: 0;
+    }
+    #portfolio {
+        margin-top: 70%;
     }
 }
   
