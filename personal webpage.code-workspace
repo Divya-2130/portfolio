@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "personal webpage",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../react/personal wedsite/personal webdite/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "personal webpage",
+		"liveServer.settings.port": 5501
+	}
+}
