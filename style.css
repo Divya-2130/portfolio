@@ -500,9 +500,6 @@ nav .fa-solid {
     .about-col-2 {
         width: 100%;
     }
-    #portfolio {
-        margin-top: 20%;
-    }
     .work-list {
     
         width: 100%;
@@ -514,18 +511,12 @@ nav .fa-solid {
     }
 }
 @media (max-width:400px) {
-    #portfolio {
-        margin-top: 50%;
-    }
     .about-col-2 {
  
         width: 100%;
     }
 }
 @media (max-width:500px) {
-    #portfolio {
-        margin-top: 50%;
-    }
     .header-text {
         margin-bottom: 90%;
     }
@@ -553,7 +544,7 @@ nav .fa-solid {
 }
 @media (max-width:300px) {
     .header-text {
-        margin-bottom: 170%;
+        margin-bottom: 180%;
     }
     .header-text p {
         font-size: 27px;
@@ -576,8 +567,18 @@ nav .fa-solid {
         margin: 5% 0;
         padding: 0;
     }
-    #portfolio {
-        margin-top: 70%;
+}
+@media (max-width:200px) {
+    #about {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        margin-bottom: 230%;
     }
 }
   
