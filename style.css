@@ -518,7 +518,7 @@ nav .fa-solid {
 }
 @media (max-width:500px) {
     .header-text {
-        margin-bottom: 30%;
+        margin-bottom: 90%;
     }
     .header-text p {
         font-size: 27px;
@@ -532,6 +532,7 @@ nav .fa-solid {
         justify-content: center;
         margin: 0;
         padding: 0;
+        margin-bottom: 90%;
     }
     .about-col-1 {
         margin-top:50%;
@@ -543,7 +544,7 @@ nav .fa-solid {
 }
 @media (max-width:300px) {
     .header-text {
-        margin-bottom: 70%;
+        margin-bottom: 170%;
     }
     .header-text p {
         font-size: 27px;
@@ -557,6 +558,7 @@ nav .fa-solid {
         justify-content: center;
         margin: 0;
         padding: 0;
+        margin-bottom: 180%;
     }
     .about-col-1 {
         margin-top:80%;
@@ -566,5 +568,5 @@ nav .fa-solid {
         padding: 0;
     }
 }
-     
+  
 
